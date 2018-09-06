@@ -2,7 +2,7 @@
   "name": "xlsexport",
   "version": "1.5.2",
   "description": "JS library for export array of objects to Excel XLS or CSV",
-  "main": "xls-export.js",
+  "main": "xls-export.es5.js",
   "scripts": {
     "babel": "babel --presets es2015 xls-export.js -o xls-export.es5.js"
   },
